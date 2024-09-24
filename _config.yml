@@ -1,11 +1,11 @@
 title: "comparx"
 email: drakeshot10559@gmail.com
 timezone: UTC
-baseurl: "/comparx.github.io"
+baseurl: "https://web3-oss.github.io/comparx.github.io"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-author: Sal
+logo: 'assets/images/logo_comparx.png'
+favicon: 'assets/images/favicon_comparx.ico'
+author: drakeshot10559
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -24,28 +24,28 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  drakeshot10559:
+    name: drakehsot10559
+    display_name: drakeshot
+    avatar: 'assets/images/drakeshot.png'
+    email: drakeshot10559@gmail.com
+    web: https://web3-oss.github.io/
+    twitter: https://twitter.com/DrakeShot10559
+    description: "Member of web3-oasis org"
+  jrv06:
+    name: jrv06
+    display_name: jrv
+    avatar: 'assets/images/jrv06.png'
+    email: jugalvaidya@gmail.com
+    web: https://web3-oss.github.io/
+    twitter: https://twitter.com/vaidya_jugal
+    description: "Member of web3-oasis org"
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/DrakeShot10559
+  facebook: https://www.facebook.com/DrakeShot10559
+  twitter: https://twitter.com/DrakeShot10559
 
 # Plugins
 plugins: 
