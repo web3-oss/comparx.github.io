@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Crypto credit cards"
+featured: true
 author: drakeshot10559
 categories: [ Jekyll, tutorial ]
 image: assets/images/Crypto_credit_cards.png
